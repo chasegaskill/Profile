@@ -1,4 +1,4 @@
-## Hi, I’m Chase, a data analyst from Frisco, TX. 
+Hi, I’m Chase, a data analyst from Frisco, TX. 
 
 ## About Me
 - I'm currently a Mortgage Loan Officer at SWBC Mortgage Corp. 
