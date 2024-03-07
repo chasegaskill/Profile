@@ -3,10 +3,11 @@
 ## 🙋‍♂️ About Me
 - I'm currently a Mortgage Loan Officer at SWBC Mortgage Corp. 
 - Degree in Finance and Economics.
+- Avid Soccer Fan.
 
 ## 🛠 Skills and Tools
 - **Tools:** Tableau; SQL; R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Google BigQuery.
-- **Skills:** Critical Thinking, Problem Solving, Communication.
+- **Skills:** Data Analytics, Critical Thinking, Problem Solving, Forecasting, Strategic Planning, Communication.
 
 ## 📚 Projects
 - View my coding projects on [**Github**](https://github.com/chasegaskill?tab=repositories).
