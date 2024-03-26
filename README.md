@@ -3,7 +3,7 @@
 ## 🙋‍♂️ About Me
 - I'm currently a Mortgage Loan Officer at SWBC Mortgage Corp. 
 - Degree in Finance and Economics.
-- Avid Soccer Fan.
+- Avid Sports Fan.
 
 ## 🛠 Skills and Tools
 - **Tools:** Tableau; SQL; R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Google BigQuery.
