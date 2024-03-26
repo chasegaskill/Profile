@@ -6,7 +6,7 @@
 - Avid Sports Fan.
 
 ## 🛠 Skills and Tools
-- **Tools:** Tableau; SQL; R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Google BigQuery.
+- **Tools:** Python; R (ggplot2, tidyverse); SQL; Excel (Pivot tables, Vlookup, Charts); Tableau.
 - **Skills:** Data Analytics, Critical Thinking, Problem Solving, Forecasting, Strategic Planning, Communication.
 
 ## 📚 Projects
