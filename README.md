@@ -7,11 +7,12 @@
 
 ## 🛠 Skills and Tools
 - **Tools:** Python; R (ggplot2, tidyverse); SQL; Excel (Pivot tables, Vlookup, Charts); Tableau.
-- **Skills:** Data Analytics, Critical Thinking, Problem Solving, Forecasting, Strategic Planning, Communication.
+- **Skills:** Data Analytics, Financial Analytics, Critical Thinking, Problem Solving, Forecasting, Strategic Planning, Communication.
 
 ## 📚 Projects
 - View my coding projects on [**Github**](https://github.com/chasegaskill?tab=repositories).
 - View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/chase.gaskill).
+- View my financial analysis projects on my [**Google Drive**](https://drive.google.com/drive/folders/1xIU4f-2JNOK8iLXhAMTiGJzov3ravO9D?usp=drive_link). 
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chasegaskill/)
