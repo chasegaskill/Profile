@@ -12,7 +12,7 @@
 ## 📚 Projects
 - View my financial analysis projects on my [**Google Drive**](https://drive.google.com/drive/folders/1xIU4f-2JNOK8iLXhAMTiGJzov3ravO9D?usp=drive_link).
 - View my coding projects on [**Github**](https://github.com/chasegaskill?tab=repositories).
-- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/chase.gaskill).
+- View my data visualizations on [**Tableau Public**](https://public.tableau.com/app/profile/chase.gaskill).
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chasegaskill/)
